@@ -19,7 +19,7 @@
         "@sentry/browser": "^5.21.4",
         "@sentry/node": "^5.21.4",
         "@tsed/common": "^5.62.6",
-        "@tsed/core": "^5.62.6",
+        "@tsed/core": "^5.65.7",
         "@tsed/di": "^5.62.6",
         "@tsed/platform-express": "^5.62.6",
         "@tsed/swagger": "^5.62.6",
